@@ -1,6 +1,5 @@
 Got it! Here's a **single-block `README.md` content** you can copy-paste directly:
 
-```markdown
 # QA API Framework
 
 This is a **Python-based API testing framework** using Flask, Pydantic, Pytest, Allure, and Faker. It provides a **mock user API** and a **full test suite** covering CRUD operations, validation, pagination, and keyword search.
@@ -12,7 +11,7 @@ This is a **Python-based API testing framework** using Flask, Pydantic, Pytest, 
 ```
 
 qa-api-framework/
-├── api_common/
+├── api/
 │   ├── mock/
 │       └── app.py 
 │       └── models.py

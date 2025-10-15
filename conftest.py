@@ -1,5 +1,5 @@
 import pytest
-from api_common import users_api
+from api import users_api
 
 @pytest.fixture(autouse=True)
 def clear_users():

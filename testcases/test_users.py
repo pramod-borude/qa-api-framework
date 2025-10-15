@@ -1,6 +1,6 @@
 import pytest
 import allure
-from api_common import users_api
+from api import users_api
 from common.assertions import assert_status_code
 from faker import Faker
 
