@@ -39,7 +39,6 @@ qa-api-framework/
    ```bash
    git clone <repo-url>
    cd qa-api-framework
-````
 
 2. **Create virtual environment**
 
